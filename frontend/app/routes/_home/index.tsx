@@ -42,7 +42,7 @@ export default function Home() {
       <div className="banner">
         <div className="container">
           <span className="hero-brand">conduit</span>
-          <p className="eyebrow">A community for curious minds</p>
+          <p className="eyebrow">Oyatillo Sidikov</p>
           <h1>Ideas worth sharing.</h1>
           <p>Read thoughtful stories, learn from others, and share what you know.</p>
         </div>
